@@ -1,8 +1,8 @@
 # Core ML/AI frameworks
-torch==2.7.1
+torch==2.8.0
 torchvision
 tensorflow==2.18.0
-transformers==4.50.0
+transformers==5.0.0rc3
 huggingface-hub
 tokenizers
 datasets
@@ -26,10 +26,10 @@ scipy==1.13.1
 # Development and training acceleration
 accelerate==1.6.0
 deepspeed==0.16.3
-ray==2.43.0
+ray==2.55.0
 
 # Jupyter and development environment
-jupyterlab==4.3.6
+jupyterlab==4.5.7
 ipython==8.32.0
 
 # Web framework and API
@@ -42,7 +42,7 @@ gunicorn
 pydantic==2.10.6
 pyyaml==6.0.2
 tqdm==4.67.1
-requests==2.32.4
+requests==2.33.0
 regex
 submitit
 hydra-core
