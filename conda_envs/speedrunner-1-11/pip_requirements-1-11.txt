@@ -1,5 +1,5 @@
 # Core ML/AI frameworks
-torch==2.8.0
+torch==2.12.0
 torchvision==0.20.1
 tensorflow==2.18.0
 transformers==5.0.0rc3
